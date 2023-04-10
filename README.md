@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherzamon</h1>
-<h3 align="center">Python Django Backend Developer,React Js ,VueJs</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ginza-official&label=Profile%20views&color=0e75b6&style=flat" alt="ginza-official" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginza-official" alt="ginza-official" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ginza-official" target="blank"><img src="https://img.shields.io/twitter/follow/ginza-official?logo=twitter&style=for-the-badge" alt="ginza-official" /></a> </p>
-
+<h3 align="center">FullStack Web Developer</h3>
 - 🌱 I’m currently learning for **FullStack Web Developer**
 
 - 📝 I regularly write articles on [www.sherzamon.uz](www.sherzamon.uz)
@@ -18,7 +11,6 @@
 - 📄 Know about my experiences [www.sherzamon.uz/download/cv](www.sherzamon.uz/download/cv)
 
 - ⚡ Fun fact **I am interested in travel**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ginza-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ginza-official" height="30" width="40" /></a>
