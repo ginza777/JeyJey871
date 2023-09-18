@@ -2,13 +2,13 @@
 <h3 align="center">FullStack Web Developer</h3>
 - 🌱 I’m currently learning for **FullStack Web Developer**
 
-- 📝 I regularly write articles on [www.sherzamon.uz](www.sherzamon.uz)
+- 📝 I regularly write articles on [www.sherzamon.uz](www.jeyjey.uz)
 
 - 💬 Ask me about **react,django,telegram-bot,python,linux,cisco**
 
-- 📫 How to reach me **phone:+998900046465**
+- 📫 How to reach me **phone:+phone**
 
-- 📄 Know about my experiences [www.sherzamon.uz/download/cv](www.sherzamon.uz/download/cv)
+- 📄 Know about my experiences [www.jeyjey/download/cv](www.jeyjey.uz/download/cv)
 
 - ⚡ Fun fact **I am interested in travel**
 <h3 align="left">Connect with me:</h3>
