@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Web Developer</h3>
 - 🌱 I’m currently learning for **FullStack Web Developer**
 
-- 📝 I regularly write articles on [www.sherzamon.uz](www.jeyjey.uz)
+- 📝 I regularly write articles on [www.jeyjey.uz](www.jeyjey.uz)
 
 - 💬 Ask me about **react,django,telegram-bot,python,linux,cisco**
 
