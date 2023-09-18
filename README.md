@@ -13,12 +13,12 @@
 - ⚡ Fun fact **I am interested in travel**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ginza-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ginza-official" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ginza-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ginza-official" height="30" width="40" /></a>
-<a href="https://fb.com/ginza-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ginza-official" height="30" width="40" /></a>
-<a href="https://instagram.com/sherzamon6961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherzamon6961" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ginza_tube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ginza_tube" height="30" width="40" /></a>
-<a href="https://discord.gg/ginza-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ginza-official" height="30" width="40" /></a>
+<a href="https://twitter.com/jeyjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ginza-official" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeyjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ginza-official" height="30" width="40" /></a>
+<a href="https://fb.com/jeyjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ginza-official" height="30" width="40" /></a>
+<a href="https://instagram.com/jeyjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherzamon6961" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jeyjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ginza_tube" height="30" width="40" /></a>
+<a href="https://discord.gg/jeyjey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ginza-official" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
